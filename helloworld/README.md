@@ -14,6 +14,5 @@ Python was the programming language used to create this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Github](https://github.com/)
 * [BYUI Instructure](https://byui.instructure.com/)

@@ -1,0 +1,19 @@
+# Overview
+
+Prints to the console "Hello World," a basic introductory phrase used when introducing new developers to a programming language.
+
+I created this software as a template to assist me in developing more difficult projects in the future where documentation is more vital to the development process.
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+Microsoft Visual Studio Code and Python were used to create this project.
+
+Python was used to create this project.
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Github](https://github.com/)
+* [BYUI Instructure](https://byui.instructure.com/)
